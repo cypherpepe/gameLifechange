@@ -21,7 +21,7 @@
     "@zerodev/session-key": "5.4.0",
     "@zerodev/weighted-ecdsa-validator": "5.3.0",
     "@ethersproject/providers": "^5.8.0",
-    "@farcaster/frame-sdk": "^0.0.63",
+    "@farcaster/frame-sdk": "^0.1.10",
     "@reown/appkit": "^1.7.10",
     "@reown/appkit-adapter-wagmi": "^1.7.10",
     "@tanstack/react-query": "^5.80.7",
