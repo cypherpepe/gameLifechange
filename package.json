@@ -11,7 +11,7 @@
   "dependencies": {
     "@walletconnect/core": "2.22.3",
     "@walletconnect/ethereum-provider": "2.22.3",
-    "@walletconnect/sign-client": "2.22.3",
+    "@walletconnect/sign-client": "2.22.4",
     "@walletconnect/types": "2.22.3",
     "@walletconnect/universal-provider": "2.22.3",
     "@walletconnect/utils": "2.22.3",
