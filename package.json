@@ -34,7 +34,7 @@
     "@lens-chain/storage-client": "^1.0.5",
     "@lens-protocol/client": "0.2.0",
     "@lens-protocol/metadata": "^2.1.0",
-    "@lens-protocol/react": "2.2.2",
+    "@lens-protocol/react": "2.3.2",
     "@lens-protocol/react-web": "^2.2.2",
     "@lens-protocol/wagmi": "^4.0.5",
     "react": "^19.1.0",
