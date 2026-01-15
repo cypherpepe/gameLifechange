@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@walletconnect/core": "2.23.0",
+    "@walletconnect/core": "2.23.3",
     "@walletconnect/ethereum-provider": "2.23.0",
     "@walletconnect/sign-client": "2.23.0",
     "@walletconnect/types": "2.23.0",
