@@ -12,7 +12,7 @@
     "@walletconnect/core": "2.23.0",
     "@walletconnect/ethereum-provider": "2.23.0",
     "@walletconnect/sign-client": "2.23.0",
-    "@walletconnect/types": "2.23.0",
+    "@walletconnect/types": "2.23.4",
     "@walletconnect/universal-provider": "2.23.0",
     "@walletconnect/utils": "2.23.0",
     "@zerodev/ecdsa-validator": "5.4.9",
